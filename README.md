@@ -13,10 +13,21 @@ A hybrid search system combining BM25, semantic search, and reranking for social
 
 ## Installation
 
+Install the dependencies directly from the repository:
+
 ```bash
 pip install -r requirements.txt
-
 ```
+
+Or install the project as a package:
+
+```bash
+pip install -e .
+```
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions, coding guidelines, and the pull request checklist.
 
 ## Usage
 Quick Start
